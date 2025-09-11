@@ -24,7 +24,7 @@ public class PracticeProblem {
 
 	public static void q2() {
 		//Write question 2 code here
-		System.out.print("Input an number: ");
+		System.out.print("Input a number: ");
         Scanner sc = new Scanner(System.in);
         String newNum = sc.nextLine();
         newNum = "4" + newNum + "3";
@@ -35,7 +35,7 @@ public class PracticeProblem {
 
 	public static void q3() {
 		//Write question 3 code here
-		System.out.print("Input an boolean: ");
+		System.out.print("Input a boolean: ");
         Scanner sc = new Scanner(System.in);
         String newBoolean = sc.nextLine();
         boolean bool = Boolean.parseBoolean(newBoolean);
@@ -69,7 +69,7 @@ public class PracticeProblem {
 
 	public static void q6() {
 		//Write question 6 code here
-		System.out.print("Input an number: ");
+		System.out.print("Input a number: ");
         Scanner sc = new Scanner(System.in);
         String newInt = sc.nextLine();
         newInt = "1" + newInt;
